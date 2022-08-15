@@ -9,19 +9,19 @@
 <h1 align="center">Real Time Bus Tracker</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agusroig.github.io/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agusroig/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agusroig.github.io/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agusroig/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/agusroig.github.io/real-time-bus-tracker?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/agusroig/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/agusroig.github.io/real-time-bus-tracker?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/agusroig/real-time-bus-tracker?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/agusroig.github.io/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/agusroig/real-time-bus-tracker?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/agusroig.github.io/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/agusroig/real-time-bus-tracker?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/agusroig.github.io/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/agusroig/real-time-bus-tracker?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -72,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agusroig.github.io/real-time-bus-tracker
+$ git clone https://github.com/agusroig/real-time-bus-tracker
 
 # Access
 $ cd real-time-bus-tracker
