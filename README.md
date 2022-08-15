@@ -46,11 +46,12 @@
 
 ## :dart: About ##
 
-This project is based on the MITxPro "Real Time Bus Tracker" certification exercise. The adaptation changes the scenario, now we are located in the city of Buenos Aires and the marker was personalized. By clicking on the purple button, an animated marker shows you the train route from the "Retiro" station in the city of Buenos Aires to the neighborhood of "Hurlingham", passing through all the stations of the "San Martín" Railway.
+This project is based on the MITxPro "Real Time Bus Tracker" certification exercise. The adaptation changes the scenario, now we are located in the city of Buenos Aires and the marker was personalized and a tooltip with the name of the station is displayed on over. By clicking on the purple button, an animated marker shows you the train route from the "Retiro" station in the city of Buenos Aires to the neighborhood of "Hurlingham", passing through all the stations of the "San Martín" Railway.
 [live project](https://agusroig.github.io/real-time-bus-tracker/)
 ## :sparkles: Features ##
 
 :heavy_check_mark: mapbox tecnology [mapbox.com](https://www.mapbox.com/)
+
 :heavy_check_mark: mapbox library examples [mapbox libraries](https://docs.mapbox.com/mapbox.js/api/v3.3.1/)
 
 ## :rocket: Technologies ##
@@ -71,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker
+$ git clone https://github.com/agusroig.github.io/real-time-bus-tracker
 
 # Access
 $ cd real-time-bus-tracker
