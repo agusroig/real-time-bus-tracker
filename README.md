@@ -8,16 +8,15 @@
 
 <h1 align="center">Real Time Bus Tracker</h1>
 
-![project-image](images/screen-shot.jpg)
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/agusroig/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agusroig/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agusroig/real-time-bus-tracker?color=fd8c73">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/agusroig/real-time-bus-tracker?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/agusroig/real-time-bus-tracker?color=58a6ff">
 
-  <img alt="License" src="https://img.shields.io/github/license/agusroig/real-time-bus-tracker?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/agusroig/real-time-bus-tracker?color=bb58ff">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/agusroig/real-time-bus-tracker?color=56BEB8" /> -->
 
@@ -33,7 +32,7 @@
 </h4> 
 
 <hr> -->
-
+![project-image](images/screen-shot.jpg)
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
@@ -49,7 +48,7 @@
 
 ## :dart: About ##
 
-This project is based on the MITxPro "Real Time Bus Tracker" certification exercise. The adaptation changes the scenario, now we are located in the city of Buenos Aires and the marker was personalized and a tooltip with the name of the station is displayed on over. By clicking on the purple button, an animated marker shows you the train route from the "Retiro" station in the city of Buenos Aires to the neighborhood of "Hurlingham", passing through all the stations of the "San Martín" Railway.
+This project is based on the MITxPro "Real Time Bus Tracker" exercise. The adaptation changes the scenario, now we are located in the city of Buenos Aires and the marker was personalized and a tooltip with the name of the station is displayed on over. By clicking on the purple button, an animated marker shows you the train route from the "Retiro" station in the city of Buenos Aires to the neighborhood of "Hurlingham", passing through all the stations of the "San Martín" Railway.
 [live project](https://agusroig.github.io/real-time-bus-tracker/)
 ## :sparkles: Features ##
 
@@ -96,7 +95,6 @@ $ yarn start
 | Set the map with mapbox  | :heavy_check_mark: | complete |
 | create a marker and add a tooltip | :heavy_check_mark:  |   complete |
 | Animate markers and the tooltip label | :heavy_check_mark:   |    complete |
-| Next step: display tooltip on load | :x: | incomplete |
 
 ## :memo: License ##
 
