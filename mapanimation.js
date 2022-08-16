@@ -1,5 +1,5 @@
 L.mapbox.accessToken=
-'pk.eyJ1IjoiYWd1c3JvaWciLCJhIjoiY2w2cjYwcTMzMGRjYjNkbGowZjZ2a2F6eSJ9.1n1pTHPel67cvxpxKJWcNw';
+'pk.eyJ1IjoiYWd1c3JvaWciLCJhIjoiY2w2cjVyOGYyMGR0NzNkcDVnaDQ0eDFsZCJ9.NCz5Td0Q-TPSWFadlzPQiw';
 
 const map = L.mapbox
   .map("map")
