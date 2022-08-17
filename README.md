@@ -38,8 +38,8 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">How to run</a> &#xa0; | &#xa0;
-    <a href="#checkered_flag-starting">Roadmap</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-how-to-run">How to run</a> &#xa0; | &#xa0;
+    <a href="#calendar-roadmap-of-future-improvements">Roadmap</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agusroig" target="_blank">Author</a>
 </p>
