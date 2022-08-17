@@ -88,13 +88,12 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :calendar: Roadmap ##
+## :calendar: Roadmap of future improvements ##
 
 | Status                        | Goal          | label  |
 | ------------- |:-------------:| -----:|
-| Set the map with mapbox  | :heavy_check_mark: | complete |
-| create a marker and add a tooltip | :heavy_check_mark:  |   complete |
-| Animate markers and the tooltip label | :heavy_check_mark:   |    complete |
+| Set routes for all trains from "Retiro"  | :hourglass_flowing_sand: | in progress |
+| make tootip appear on load | :hourglass_flowing_sand: | in progress |
 
 ## :memo: License ##
 
