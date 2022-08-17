@@ -49,6 +49,7 @@
 ## :dart: About ##
 
 This project is based on the MITxPro "Real Time Bus Tracker" exercise. The adaptation changes the scenario, now we are located in the city of Buenos Aires and the marker was personalized and a tooltip with the name of the station is displayed on over. By clicking on the purple button, an animated marker shows you the train route from the "Retiro" station in the city of Buenos Aires to the neighborhood of "Hurlingham", passing through all the stations of the "San Martín" Railway.
+
 [live project](https://agusroig.github.io/real-time-bus-tracker/)
 ## :sparkles: Features ##
 
