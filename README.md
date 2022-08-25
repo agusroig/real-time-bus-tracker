@@ -83,7 +83,7 @@ $ cd real-time-bus-tracker
 
 ## :calendar: Roadmap of future improvements ##
 
-| Status                        | Goal          | label  |
+| Goal                    |  Progress         | Status |
 | ------------- |:-------------:| -----:|
 | Set routes for all trains from "Retiro"  | :hourglass_flowing_sand: | coming soon |
 | make tootip appear on load | :hourglass_flowing_sand: | coming soon |
